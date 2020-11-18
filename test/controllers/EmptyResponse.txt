@@ -1,0 +1,13 @@
+{
+    "statuses": [],
+    "search_metadata": {
+        "completed_in": 0.009,
+        "max_id": 1326699597301833728,
+        "max_id_str": "1326699597301833728",
+        "query": "%22asdgfhfdsadfghfds%22",
+        "refresh_url": "?since_id=1326699597301833728&q=%22asdgfhfdsadfghfds%22&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

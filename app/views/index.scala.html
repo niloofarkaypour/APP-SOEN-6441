@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>TweeterLytics</title>
+    <link rel="shortcut icon" href="https://abs.twimg.com/favicons/twitter.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="@routes.Assets.versioned("stylesheets/style.css")"> </head> <body>
+
+    <h1 class="text-center header-text">TweeterLytics</h1>
+    <div class="container h-25">
+        <div class="d-flex justify-content-center h-100">
+            <div class="searchbar">
+                <input class="search_input" type="text" id="searchInput" name="" placeholder="Search..."> <a href="#"
+                    class="search_icon"><i class="fas fa-search" id="clickButton"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="jumbotron" id="tweets">
+        <h3 class="text-center">Let's search something interesting...</h3>
+    </div>
+
+    </body>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet"
+        id="bootstrap-css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    
+    <script>
+        url = `${window.location.href}returnSearchResponse/`
+        var counter = 0
+        $(document).ready(function () {
+            $('#clickButton').on('click', function (event) {
+            	event.preventDefault();
+                processEvent(event)
+            });
+
+            $('#searchInput').on('keypress', function (event) {
+                processEvent(event)
+            });
+        });
+        
+  
+        var processEvent = function (event) {
+            var keycode = (event.keyCode ? event.keyCode : event.which);
+            var searchterm = $("#searchInput").val()
+            if ((searchterm !== "" && keycode == '13') || (searchterm !== "" && keycode == '1')) {
+                $.ajax({
+                    type: 'GET',
+                    url: url + searchterm,
+                    contentType: 'application/json',
+                    crossDomain: true,
+                    success: function (response) {
+                        response = JSON.parse(response)
+                        if (response.status == "success") {
+                            if (counter == 0) {
+                                $("#tweets").empty()
+                                counter++
+                            }
+                            appendString =
+                                `<ul class="list-group list-group-flush"> <li class="list-group-item searchterm"><a class="searchterm" href="${window.location.href}tweetAnalytics/${searchterm}" target="_blank">${searchterm}</a>  ${response.emoji}</li>`
+                                tweetBody2=""
+                                	for (let i = 0; i < response.data.length; i++) {
+									
+											
+										username = response.data[i].username
+										tweetBody = response.data[i].tweetbody	
+										hashtag = tweetBody.match(/#[a-z]+/gi)
+										//Add hyperlink to hashtag
+										if(hashtag != null && hashtag!=undefined){
+											hashtagSplited = hashtag
+											tweetBody23 =""
+											for(let k = 0; k<hashtagSplited.length ; k++){
+												myHashtag = hashtagSplited[k].replace("#","%23")
+												tweetBody23 = tweetBody.replace(hashtagSplited[k], '<a href="/tweetHashTags/'+searchterm+'/'+myHashtag+'" target="_blank">'+hashtagSplited[k]+'</a>')
+												tweetBody = tweetBody23
+											}
+											tweetBody2 = tweetBody23
+										}
+										else{
+											tweetBody2 = tweetBody
+										}
+										
+										displayName = response.data[i].displayName
+										//Add hyperlink to username
+										username =`<a href="${window.location.href}userInformation/${searchterm}/${username}"  target="_blank">${username}</a>`
+										appendString = appendString + `<li class="list-group-item" style=""> ${username} (${displayName}) <br> ${tweetBody2}</li>`
+
+									}
+                                
+                            appendString = appendString + `</ul>`
+                            $('#tweets').prepend(appendString);
+                        } else {
+                            alert('Not working')
+                        }
+                        $("#searchInput").val("")
+                    }
+                }).fail(function () {
+
+                    alert("failed!")
+                    $("#searchInput").val("")
+                });
+            }
+        }
+    </script>
+</html>

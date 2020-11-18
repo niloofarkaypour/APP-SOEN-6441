@@ -1,0 +1,2533 @@
+{
+    "statuses": [
+        {
+            "created_at": "Wed Nov 11 20:09:31 +0000 2020",
+            "id": 1326618076901756928,
+            "id_str": "1326618076901756928",
+            "full_text": "Just posted a photo @ Concordia University, Nebraska https://t.co/V5ZPBKy8eq",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                76
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/V5ZPBKy8eq",
+                        "expanded_url": "https://www.instagram.com/p/CHdp6pShKLQ/?igshid=1p0bbj8pdzuvj",
+                        "display_url": "instagram.com/p/CHdp6pShKLQ/…",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 787058818672791552,
+                "id_str": "787058818672791552",
+                "name": "CUNEcheerdance",
+                "screen_name": "CUNEcheerdance",
+                "location": "Seward, NE",
+                "description": "Follow the Concordia University, Nebraska Cheer and Dance Teams!",
+                "url": "https://t.co/DLC4N8mp22",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/DLC4N8mp22",
+                                "expanded_url": "http://www.cune.edu/athletics/",
+                                "display_url": "cune.edu/athletics/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 202,
+                "friends_count": 411,
+                "listed_count": 0,
+                "created_at": "Fri Oct 14 22:33:40 +0000 2016",
+                "favourites_count": 780,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 870,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1221622924978855936/uZyZlqvn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221622924978855936/uZyZlqvn_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/787058818672791552/1580092577",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 20:06:05 +0000 2020",
+            "id": 1326617213873381377,
+            "id_str": "1326617213873381377",
+            "full_text": "RT @Athletics_OCHS: Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knights…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Athletics_OCHS",
+                        "name": "Knights Athletics",
+                        "id": 799277343558799360,
+                        "id_str": "799277343558799360",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "Amberbehr",
+                        "name": "Amber Behr",
+                        "id": 898330861199925248,
+                        "id_str": "898330861199925248",
+                        "indices": [
+                            120,
+                            130
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 898330861199925248,
+                "id_str": "898330861199925248",
+                "name": "Amber Behr",
+                "screen_name": "Amberbehr",
+                "location": "",
+                "description": "OCHS’21-Wisconsin Knights-CUW Softball commit",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 40,
+                "friends_count": 49,
+                "listed_count": 0,
+                "created_at": "Thu Aug 17 23:49:02 +0000 2017",
+                "favourites_count": 53,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 84,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1306380750816772098/P4Mu0XD5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306380750816772098/P4Mu0XD5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/898330861199925248/1529265779",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:52:54 +0000 2020",
+                "id": 1326613893918101504,
+                "id_str": "1326613893918101504",
+                "full_text": "Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knightsoftball @#GoKnights https://t.co/djxdoil7nS",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    138
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "GoKnights",
+                            "indices": [
+                                128,
+                                138
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Amberbehr",
+                            "name": "Amber Behr",
+                            "id": 898330861199925248,
+                            "id_str": "898330861199925248",
+                            "indices": [
+                                100,
+                                110
+                            ]
+                        },
+                        {
+                            "screen_name": "knightsoftball",
+                            "name": "Oak Creek Softball",
+                            "id": 1253165232,
+                            "id_str": "1253165232",
+                            "indices": [
+                                111,
+                                126
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 799277343558799360,
+                    "id_str": "799277343558799360",
+                    "name": "Knights Athletics",
+                    "screen_name": "Athletics_OCHS",
+                    "location": "Oak Creek, WI",
+                    "description": "Official Twitter account of Oak Creek High School Athletics and Activities",
+                    "url": "https://t.co/oaj9OICem9",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/oaj9OICem9",
+                                    "expanded_url": "http://www.ocfsd.org/oak-creek-high-school/athletics-activities/athletics",
+                                    "display_url": "ocfsd.org/oak-creek-high…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1455,
+                    "friends_count": 66,
+                    "listed_count": 4,
+                    "created_at": "Thu Nov 17 15:45:43 +0000 2016",
+                    "favourites_count": 4220,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 4924,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/799277343558799360/1479483196",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 14,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 20:01:45 +0000 2020",
+            "id": 1326616123723243520,
+            "id_str": "1326616123723243520",
+            "full_text": "Concordia University\n2020-11-11 \n #greatuniversity #getinspirednotoffended #everybodymakesmistakes @ Côte Saint-Luc, Quebec https://t.co/bOdCB0LFBj",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                147
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "greatuniversity",
+                        "indices": [
+                            34,
+                            50
+                        ]
+                    },
+                    {
+                        "text": "getinspirednotoffended",
+                        "indices": [
+                            51,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "everybodymakesmistakes",
+                        "indices": [
+                            75,
+                            98
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/bOdCB0LFBj",
+                        "expanded_url": "https://www.instagram.com/p/CHdpBClBkHi/?igshid=ylqpfvrz7ga2",
+                        "display_url": "instagram.com/p/CHdpBClBkHi/…",
+                        "indices": [
+                            124,
+                            147
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 158758002,
+                "id_str": "158758002",
+                "name": "Gino DiCaprio",
+                "screen_name": "GinoDiCaprio",
+                "location": "Montreal West Quebec Canada",
+                "description": "Best Selling Inspirational Author | Philosopher | Video Creator | Empowering You | Tips & Advice | Tools to Grow",
+                "url": "https://t.co/czIiKgCST3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/czIiKgCST3",
+                                "expanded_url": "https://linktr.ee/ginodicaprio5",
+                                "display_url": "linktr.ee/ginodicaprio5",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 102,
+                "friends_count": 17,
+                "listed_count": 0,
+                "created_at": "Wed Jun 23 14:44:24 +0000 2010",
+                "favourites_count": 654,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 13499,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1082145901882286080/4yODvH-g_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082145901882286080/4yODvH-g_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/158758002/1589948623",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    45.4667,
+                    -73.668
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -73.668,
+                    45.4667
+                ]
+            },
+            "place": {
+                "id": "0bae3c62f3193122",
+                "url": "https://api.twitter.com/1.1/geo/id/0bae3c62f3193122.json",
+                "place_type": "city",
+                "name": "Côte-Saint-Luc",
+                "full_name": "Côte-Saint-Luc, Québec",
+                "country_code": "CA",
+                "country": "Canada",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -73.687049,
+                                45.452256
+                            ],
+                            [
+                                -73.6304722,
+                                45.452256
+                            ],
+                            [
+                                -73.6304722,
+                                45.4928249
+                            ],
+                            [
+                                -73.687049,
+                                45.4928249
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Wed Nov 11 19:57:47 +0000 2020",
+            "id": 1326615123541204992,
+            "id_str": "1326615123541204992",
+            "full_text": "RT @SDSAINT1: Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of yo…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SDSAINT1",
+                        "name": "Rita Kear",
+                        "id": 259462399,
+                        "id_str": "259462399",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 36739057,
+                "id_str": "36739057",
+                "name": "Daily Bulletin",
+                "screen_name": "ivdailybulletin",
+                "location": "Ontario, CA",
+                "description": "Local. News. Matters. We cover the Inland Valley. #LocalNewsMatters",
+                "url": "http://t.co/d8auBg0mOM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/d8auBg0mOM",
+                                "expanded_url": "http://www.dailybulletin.com",
+                                "display_url": "dailybulletin.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 14634,
+                "friends_count": 277,
+                "listed_count": 365,
+                "created_at": "Thu Apr 30 18:49:34 +0000 2009",
+                "favourites_count": 68,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 124348,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/817475384430075904/MTd5IgkR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/817475384430075904/MTd5IgkR_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/36739057/1489183583",
+                "profile_link_color": "BA1818",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:06:16 +0000 2020",
+                "id": 1326602159845109767,
+                "id_str": "1326602159845109767",
+                "full_text": "Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of you! @_SaintsBaseball @Dad4_Nance @ConcordiaIrvine @SdhsEnglish9 @SanPrincipal https://t.co/KSAjdhwgaz",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    201
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "_SaintsBaseball",
+                            "name": "San Dimas Baseball⚾️",
+                            "id": 2294957064,
+                            "id_str": "2294957064",
+                            "indices": [
+                                128,
+                                144
+                            ]
+                        },
+                        {
+                            "screen_name": "Dad4_Nance",
+                            "name": "Jack Nance",
+                            "id": 774269618688962561,
+                            "id_str": "774269618688962561",
+                            "indices": [
+                                145,
+                                156
+                            ]
+                        },
+                        {
+                            "screen_name": "ConcordiaIrvine",
+                            "name": "Concordia University",
+                            "id": 20468573,
+                            "id_str": "20468573",
+                            "indices": [
+                                157,
+                                173
+                            ]
+                        },
+                        {
+                            "screen_name": "SdhsEnglish9",
+                            "name": "Mark Holman",
+                            "id": 783769489292668928,
+                            "id_str": "783769489292668928",
+                            "indices": [
+                                174,
+                                187
+                            ]
+                        },
+                        {
+                            "screen_name": "SanPrincipal",
+                            "name": "San Dimas HS Principal",
+                            "id": 1026591119126097920,
+                            "id_str": "1026591119126097920",
+                            "indices": [
+                                188,
+                                201
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 259462399,
+                    "id_str": "259462399",
+                    "name": "Rita Kear",
+                    "screen_name": "SDSAINT1",
+                    "location": "san dimas",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 481,
+                    "friends_count": 330,
+                    "listed_count": 8,
+                    "created_at": "Tue Mar 01 23:42:55 +0000 2011",
+                    "favourites_count": 3684,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 5045,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/259462399/1582668801",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 6,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:57:41 +0000 2020",
+            "id": 1326615098014588928,
+            "id_str": "1326615098014588928",
+            "full_text": "RT @SDSAINT1: Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of yo…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SDSAINT1",
+                        "name": "Rita Kear",
+                        "id": 259462399,
+                        "id_str": "259462399",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19312573,
+                "id_str": "19312573",
+                "name": "SGV Tribune",
+                "screen_name": "SGVTribune",
+                "location": "Monrovia, CA",
+                "description": "Local. News. Matters. We cover breaking news and local news in the San Gabriel Valley. #LocalNewsMatters",
+                "url": "http://t.co/vIICIcyZMO",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/vIICIcyZMO",
+                                "expanded_url": "http://www.sgvtribune.com",
+                                "display_url": "sgvtribune.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 39074,
+                "friends_count": 535,
+                "listed_count": 487,
+                "created_at": "Wed Jan 21 22:39:12 +0000 2009",
+                "favourites_count": 25,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 141268,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/817474890945040384/IjagBnXi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/817474890945040384/IjagBnXi_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19312573/1454605068",
+                "profile_link_color": "2923C4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:06:16 +0000 2020",
+                "id": 1326602159845109767,
+                "id_str": "1326602159845109767",
+                "full_text": "Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of you! @_SaintsBaseball @Dad4_Nance @ConcordiaIrvine @SdhsEnglish9 @SanPrincipal https://t.co/KSAjdhwgaz",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    201
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "_SaintsBaseball",
+                            "name": "San Dimas Baseball⚾️",
+                            "id": 2294957064,
+                            "id_str": "2294957064",
+                            "indices": [
+                                128,
+                                144
+                            ]
+                        },
+                        {
+                            "screen_name": "Dad4_Nance",
+                            "name": "Jack Nance",
+                            "id": 774269618688962561,
+                            "id_str": "774269618688962561",
+                            "indices": [
+                                145,
+                                156
+                            ]
+                        },
+                        {
+                            "screen_name": "ConcordiaIrvine",
+                            "name": "Concordia University",
+                            "id": 20468573,
+                            "id_str": "20468573",
+                            "indices": [
+                                157,
+                                173
+                            ]
+                        },
+                        {
+                            "screen_name": "SdhsEnglish9",
+                            "name": "Mark Holman",
+                            "id": 783769489292668928,
+                            "id_str": "783769489292668928",
+                            "indices": [
+                                174,
+                                187
+                            ]
+                        },
+                        {
+                            "screen_name": "SanPrincipal",
+                            "name": "San Dimas HS Principal",
+                            "id": 1026591119126097920,
+                            "id_str": "1026591119126097920",
+                            "indices": [
+                                188,
+                                201
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 259462399,
+                    "id_str": "259462399",
+                    "name": "Rita Kear",
+                    "screen_name": "SDSAINT1",
+                    "location": "san dimas",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 481,
+                    "friends_count": 330,
+                    "listed_count": 8,
+                    "created_at": "Tue Mar 01 23:42:55 +0000 2011",
+                    "favourites_count": 3684,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 5045,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/259462399/1582668801",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 6,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:54:20 +0000 2020",
+            "id": 1326614256188534787,
+            "id_str": "1326614256188534787",
+            "full_text": "RT @Athletics_OCHS: Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knights…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Athletics_OCHS",
+                        "name": "Knights Athletics",
+                        "id": 799277343558799360,
+                        "id_str": "799277343558799360",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "Amberbehr",
+                        "name": "Amber Behr",
+                        "id": 898330861199925248,
+                        "id_str": "898330861199925248",
+                        "indices": [
+                            120,
+                            130
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 984796163403640834,
+                "id_str": "984796163403640834",
+                "name": "Hailey#16OCHS_24GTS16U",
+                "screen_name": "08Hailey_2022",
+                "location": "Wisconsin, USA",
+                "description": "Indiana farm girl transplanted to the Wisconsin suburbs. Class of 2022. Christian✝️. Student-Athlete. Softball Pitcher🥎. 4-H Member🍀",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 141,
+                "friends_count": 634,
+                "listed_count": 0,
+                "created_at": "Fri Apr 13 14:11:16 +0000 2018",
+                "favourites_count": 729,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 237,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1316149515347546113/oFLgwGnY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316149515347546113/oFLgwGnY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/984796163403640834/1529976174",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:52:54 +0000 2020",
+                "id": 1326613893918101504,
+                "id_str": "1326613893918101504",
+                "full_text": "Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knightsoftball @#GoKnights https://t.co/djxdoil7nS",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    138
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "GoKnights",
+                            "indices": [
+                                128,
+                                138
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Amberbehr",
+                            "name": "Amber Behr",
+                            "id": 898330861199925248,
+                            "id_str": "898330861199925248",
+                            "indices": [
+                                100,
+                                110
+                            ]
+                        },
+                        {
+                            "screen_name": "knightsoftball",
+                            "name": "Oak Creek Softball",
+                            "id": 1253165232,
+                            "id_str": "1253165232",
+                            "indices": [
+                                111,
+                                126
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 799277343558799360,
+                    "id_str": "799277343558799360",
+                    "name": "Knights Athletics",
+                    "screen_name": "Athletics_OCHS",
+                    "location": "Oak Creek, WI",
+                    "description": "Official Twitter account of Oak Creek High School Athletics and Activities",
+                    "url": "https://t.co/oaj9OICem9",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/oaj9OICem9",
+                                    "expanded_url": "http://www.ocfsd.org/oak-creek-high-school/athletics-activities/athletics",
+                                    "display_url": "ocfsd.org/oak-creek-high…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1455,
+                    "friends_count": 66,
+                    "listed_count": 4,
+                    "created_at": "Thu Nov 17 15:45:43 +0000 2016",
+                    "favourites_count": 4220,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 4924,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/799277343558799360/1479483196",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 14,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:53:36 +0000 2020",
+            "id": 1326614069705576448,
+            "id_str": "1326614069705576448",
+            "full_text": "RT @Athletics_OCHS: Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knights…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Athletics_OCHS",
+                        "name": "Knights Athletics",
+                        "id": 799277343558799360,
+                        "id_str": "799277343558799360",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    },
+                    {
+                        "screen_name": "Amberbehr",
+                        "name": "Amber Behr",
+                        "id": 898330861199925248,
+                        "id_str": "898330861199925248",
+                        "indices": [
+                            120,
+                            130
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1253165232,
+                "id_str": "1253165232",
+                "name": "Oak Creek Softball",
+                "screen_name": "knightsoftball",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 309,
+                "friends_count": 42,
+                "listed_count": 3,
+                "created_at": "Sat Mar 09 02:05:36 +0000 2013",
+                "favourites_count": 382,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 536,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1136751231345594368/8BjPmeYD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136751231345594368/8BjPmeYD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253165232/1495746713",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:52:54 +0000 2020",
+                "id": 1326613893918101504,
+                "id_str": "1326613893918101504",
+                "full_text": "Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knightsoftball @#GoKnights https://t.co/djxdoil7nS",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    138
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "GoKnights",
+                            "indices": [
+                                128,
+                                138
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "Amberbehr",
+                            "name": "Amber Behr",
+                            "id": 898330861199925248,
+                            "id_str": "898330861199925248",
+                            "indices": [
+                                100,
+                                110
+                            ]
+                        },
+                        {
+                            "screen_name": "knightsoftball",
+                            "name": "Oak Creek Softball",
+                            "id": 1253165232,
+                            "id_str": "1253165232",
+                            "indices": [
+                                111,
+                                126
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326613887605755904,
+                            "id_str": "1326613887605755904",
+                            "indices": [
+                                139,
+                                162
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                            "url": "https://t.co/djxdoil7nS",
+                            "display_url": "pic.twitter.com/djxdoil7nS",
+                            "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 900,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 510,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1536,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 799277343558799360,
+                    "id_str": "799277343558799360",
+                    "name": "Knights Athletics",
+                    "screen_name": "Athletics_OCHS",
+                    "location": "Oak Creek, WI",
+                    "description": "Official Twitter account of Oak Creek High School Athletics and Activities",
+                    "url": "https://t.co/oaj9OICem9",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/oaj9OICem9",
+                                    "expanded_url": "http://www.ocfsd.org/oak-creek-high-school/athletics-activities/athletics",
+                                    "display_url": "ocfsd.org/oak-creek-high…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1455,
+                    "friends_count": 66,
+                    "listed_count": 4,
+                    "created_at": "Thu Nov 17 15:45:43 +0000 2016",
+                    "favourites_count": 4220,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 4924,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/799277343558799360/1479483196",
+                    "profile_link_color": "1B95E0",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 14,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:52:54 +0000 2020",
+            "id": 1326613893918101504,
+            "id_str": "1326613893918101504",
+            "full_text": "Congratulations Amber Behr on your commitment to play college softball at Concordia University (WI) @Amberbehr @knightsoftball @#GoKnights https://t.co/djxdoil7nS",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                138
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "GoKnights",
+                        "indices": [
+                            128,
+                            138
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Amberbehr",
+                        "name": "Amber Behr",
+                        "id": 898330861199925248,
+                        "id_str": "898330861199925248",
+                        "indices": [
+                            100,
+                            110
+                        ]
+                    },
+                    {
+                        "screen_name": "knightsoftball",
+                        "name": "Oak Creek Softball",
+                        "id": 1253165232,
+                        "id_str": "1253165232",
+                        "indices": [
+                            111,
+                            126
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1326613887605755904,
+                        "id_str": "1326613887605755904",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                        "url": "https://t.co/djxdoil7nS",
+                        "display_url": "pic.twitter.com/djxdoil7nS",
+                        "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1326613887605755904,
+                        "id_str": "1326613887605755904",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EmkUTVTXUAARWKB.jpg",
+                        "url": "https://t.co/djxdoil7nS",
+                        "display_url": "pic.twitter.com/djxdoil7nS",
+                        "expanded_url": "https://twitter.com/Athletics_OCHS/status/1326613893918101504/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 799277343558799360,
+                "id_str": "799277343558799360",
+                "name": "Knights Athletics",
+                "screen_name": "Athletics_OCHS",
+                "location": "Oak Creek, WI",
+                "description": "Official Twitter account of Oak Creek High School Athletics and Activities",
+                "url": "https://t.co/oaj9OICem9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/oaj9OICem9",
+                                "expanded_url": "http://www.ocfsd.org/oak-creek-high-school/athletics-activities/athletics",
+                                "display_url": "ocfsd.org/oak-creek-high…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1455,
+                "friends_count": 66,
+                "listed_count": 4,
+                "created_at": "Thu Nov 17 15:45:43 +0000 2016",
+                "favourites_count": 4220,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4924,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/799351238349508608/uMx_zS7z_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/799277343558799360/1479483196",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:48:33 +0000 2020",
+            "id": 1326612800181919744,
+            "id_str": "1326612800181919744",
+            "full_text": "RT @SDSAINT1: Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of yo…",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SDSAINT1",
+                        "name": "Rita Kear",
+                        "id": 259462399,
+                        "id_str": "259462399",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19416422,
+                "id_str": "19416422",
+                "name": "Fred J. Robledo 👨🏻‍💻",
+                "screen_name": "SGVNSports",
+                "location": "San Gabriel Valley Tribune, Star-News, Whittier Daily News",
+                "description": "Fred J. Robledo is a local sports editor for the Southern California Newspaper Group. frobledo@scng.com and https://t.co/cc44orxPtr",
+                "url": "https://t.co/YfqDUELq3c",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/YfqDUELq3c",
+                                "expanded_url": "https://www.sgvtribune.com/sports/high-school-sports/",
+                                "display_url": "sgvtribune.com/sports/high-sc…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/cc44orxPtr",
+                                "expanded_url": "https://www.facebook.com/pg/SGVNSPORTS/posts/",
+                                "display_url": "facebook.com/pg/SGVNSPORTS/…",
+                                "indices": [
+                                    108,
+                                    131
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 22247,
+                "friends_count": 4673,
+                "listed_count": 131,
+                "created_at": "Fri Jan 23 21:58:11 +0000 2009",
+                "favourites_count": 6732,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 132115,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1103061176261402624/KKd7AU3m_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103061176261402624/KKd7AU3m_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19416422/1580575973",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Nov 11 19:06:16 +0000 2020",
+                "id": 1326602159845109767,
+                "id_str": "1326602159845109767",
+                "full_text": "Congratulations to San Dimas High Senior Matthew DesMaret signing with Concordia University for Baseball! So very proud of you! @_SaintsBaseball @Dad4_Nance @ConcordiaIrvine @SdhsEnglish9 @SanPrincipal https://t.co/KSAjdhwgaz",
+                "truncated": false,
+                "display_text_range": [
+                    0,
+                    201
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "_SaintsBaseball",
+                            "name": "San Dimas Baseball⚾️",
+                            "id": 2294957064,
+                            "id_str": "2294957064",
+                            "indices": [
+                                128,
+                                144
+                            ]
+                        },
+                        {
+                            "screen_name": "Dad4_Nance",
+                            "name": "Jack Nance",
+                            "id": 774269618688962561,
+                            "id_str": "774269618688962561",
+                            "indices": [
+                                145,
+                                156
+                            ]
+                        },
+                        {
+                            "screen_name": "ConcordiaIrvine",
+                            "name": "Concordia University",
+                            "id": 20468573,
+                            "id_str": "20468573",
+                            "indices": [
+                                157,
+                                173
+                            ]
+                        },
+                        {
+                            "screen_name": "SdhsEnglish9",
+                            "name": "Mark Holman",
+                            "id": 783769489292668928,
+                            "id_str": "783769489292668928",
+                            "indices": [
+                                174,
+                                187
+                            ]
+                        },
+                        {
+                            "screen_name": "SanPrincipal",
+                            "name": "San Dimas HS Principal",
+                            "id": 1026591119126097920,
+                            "id_str": "1026591119126097920",
+                            "indices": [
+                                188,
+                                201
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1326602154845499392,
+                            "id_str": "1326602154845499392",
+                            "indices": [
+                                202,
+                                225
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EmkJoZXVcAA9NVs.jpg",
+                            "url": "https://t.co/KSAjdhwgaz",
+                            "display_url": "pic.twitter.com/KSAjdhwgaz",
+                            "expanded_url": "https://twitter.com/SDSAINT1/status/1326602159845109767/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 510,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1536,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 900,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 259462399,
+                    "id_str": "259462399",
+                    "name": "Rita Kear",
+                    "screen_name": "SDSAINT1",
+                    "location": "san dimas",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 481,
+                    "friends_count": 330,
+                    "listed_count": 8,
+                    "created_at": "Tue Mar 01 23:42:55 +0000 2011",
+                    "favourites_count": 3684,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 5045,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106005911603011584/w4nF599p_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/259462399/1582668801",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 6,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Wed Nov 11 19:45:00 +0000 2020",
+            "id": 1326611906208145409,
+            "id_str": "1326611906208145409",
+            "full_text": "Charged in Ozaukee County. https://t.co/N4rNb5WLiV",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                50
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/N4rNb5WLiV",
+                        "expanded_url": "https://www.fox6now.com/news/18-year-old-man-accused-of-sexual-assault-at-concordia-university",
+                        "display_url": "fox6now.com/news/18-year-o…",
+                        "indices": [
+                            27,
+                            50
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3888351,
+                "id_str": "3888351",
+                "name": "FOX6 News",
+                "screen_name": "fox6now",
+                "location": "Milwaukee",
+                "description": "WITI-TV FOX6 News. Our Twitter account is managed by the Web Team. Have a news tip? E-mail fox6news@fox6now.com.",
+                "url": "http://t.co/l7SQv1i6Sv",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/l7SQv1i6Sv",
+                                "expanded_url": "http://www.fox6now.com",
+                                "display_url": "fox6now.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 86960,
+                "friends_count": 2003,
+                "listed_count": 1221,
+                "created_at": "Mon Apr 09 11:03:31 +0000 2007",
+                "favourites_count": 248,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 315085,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FCFCFC",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1288593211401932801/oDuunnzP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288593211401932801/oDuunnzP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3888351/1596054584",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.059,
+        "max_id": 1326618076901756928,
+        "max_id_str": "1326618076901756928",
+        "next_results": "?max_id=1326611906208145408&q=%22Concordia%20University%22&count=10&include_entities=1",
+        "query": "%22Concordia+University%22",
+        "refresh_url": "?since_id=1326618076901756928&q=%22Concordia%20University%22&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
